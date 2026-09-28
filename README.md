@@ -155,7 +155,7 @@ The workbook recalculates with **0 formula errors across 740 formulas**. The mod
 pidilite-dcf-valuation-model/
 ├── README.md
 ├── model/
-│   └── Pidilite_DCF_Final.xlsx
+│   └── Pidilite_DCF.xlsx
 ├── data/
 │   ├── ASTRAL_NS_Monthly_Historical_Prices_Sep2024-Sep2026.csv
 │   ├── SUPREMEIND_NS_Monthly_Historical_Prices_Oct2024-Sep2026.csv
@@ -169,7 +169,7 @@ pidilite-dcf-valuation-model/
 
 ## How to use
 
-1. Open `model/Pidilite_DCF_Final.xlsx` in Excel (formulas recalculate automatically).
+1. Open `model/Pidilite_DCF.xlsx` in Excel (formulas recalculate automatically).
 2. Change assumptions only in **yellow** cells. Forecast drivers are on `Data Sheet` rows 30–35, and terminal growth is `Data Sheet!C39`.
 3. Switch the peer-beta method with `WACC!I18` (1 = median, 2 = average, 3 = paints-only).
 4. Read results on the `DCF` tab (green cells) and the DCF-vs-comps spread in `DCF!N58:N60`.
