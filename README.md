@@ -182,5 +182,6 @@ This model is an educational project. It is not investment advice, and nothing h
 
 ## Author
 
-**Yug** — Mechanical Engineering, IIT Gandhinagar (Class of 2027). Interested in investment banking and financial analytics.
-[LinkedIn](#) · [Email](#)
+**Yug Desai** — Mechanical Engineering, IIT Gandhinagar (Class of 2027). Interested in Investment Banking and Financial Analytics.
+
+[LinkedIn](https://www.linkedin.com/in/yug-desai-9a227428b/) · [Email](mailto:yug.desai@iitgn.ac.in)
